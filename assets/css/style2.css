@@ -12,7 +12,7 @@
   
   }
   
-  /* Header at the top.  Sets padding, font and colors*/
+  /* element selector Header at the top.  Sets padding, font and colors*/
   header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -26,12 +26,12 @@
     font-size: 48px;
   }
   
-  /* Used to change the color on part of the h1 header at the top. */
+  /* Class selector used to change the color on part of the h1 header at the top. */
   .seo {
     color: #d9dcd6;
   }
   
-  /* nav menu bar up at the top of the page. Sets the padding, margin, and location of the nav bar menu */
+  /* Class selector for nav menu bar up at the top of the page. Sets the padding, margin, and location of the nav bar menu */
   nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -39,7 +39,7 @@
     font-size: 20px;
   }
   
-  /* Elements within nav bar menu  sets inline-block discplay, and location*/
+  /* Element selector for elements within nav bar menu  sets inline-block discplay, and location*/
   li {
     list-style-type: none;
     display: inline-block;
@@ -47,13 +47,13 @@
   
   }
   
-  /* links in the nav bar. sets color of links, otherwise it reverts to blue or default color */
+  /* Element selector for links in the nav bar. sets color of links, otherwise it reverts to blue or default color */
   a {
     color: #ffffff;
     text-decoration: none;
   }
   
-  /* Hero image styling for background image.  */
+  /* Class selector for Hero image styling for background image.  */
   .hero-img {
     height: 800px;
     width: 100%;
@@ -103,7 +103,7 @@
     font-size: 36px;
   }
   
-  /* Right hand side sidebar.  Sets margin,padding, float, dimensions, color and background-color*/
+  /* Element selector for right hand side sidebar.  Sets margin,padding, float, dimensions, color and background-color*/
   aside {
     margin-right: 20px;
     padding: 20px;
