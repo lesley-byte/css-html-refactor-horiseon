@@ -1,3 +1,4 @@
+/* This is the universal selector. */
 * {
     box-sizing: border-box;
     padding: 0;
@@ -5,7 +6,7 @@
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   
   }
-  
+  /* This is the body element selector. */
   body {
     background-color: #d9dcd6;
   
@@ -19,7 +20,7 @@
     color: #ffffff;
   
   }
-  
+  /* This is the h1 element selector. */
   h1 {
     display: inline-block;
     font-size: 48px;
@@ -30,7 +31,7 @@
     color: #d9dcd6;
   }
   
-  /* nav bar up at the top of the page */
+  /* nav menu bar up at the top of the page */
   nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -63,18 +64,18 @@
     background-repeat: no-repeat;
     position: relative;
   }
-  
+  /* Element selector */
   main {
     color: #ffffff;
     width: 75%;
     display: inline-block;
     margin-left: 20px;
   }
-  
+  /* Element selector */
   p {
     font-size: 16px;
   }
-  
+  /* Class selectors  */
   .float-left {
     float: left;
     margin-right: 25px;
@@ -84,19 +85,19 @@
     float: right;
     margin-left: 25px;
   }
-  
+  /* Element selector */
   section {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
     background-color: #0072bb;
   }
-  
+  /* Element selector */
   section img {
     max-height: 200px;
   }
   
-  
+  /* Element selector */
   section h2 {
     margin-bottom: 20px;
     font-size: 36px;
@@ -113,23 +114,23 @@
     background-color: #2589bd;
     color: #ffffff;
   }
-  
+  /* Class selector  */
   .side {
     margin-bottom: 32px;
   }
-  
+  /* Element selector */
   h3 {
     margin-bottom: 10px;
     text-align: center;
   }
-  
+  /* Class selector  */
   .side img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
   }
   
-  
+  /* Element selector */
   footer {
     padding: 30px;
     clear: both;
@@ -137,7 +138,7 @@
     text-align: center;
   
   }
-  
+  /* Element selector */
   footer h2 {
     font-size: 20px;
   }
