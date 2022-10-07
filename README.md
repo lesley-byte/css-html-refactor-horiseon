@@ -13,7 +13,7 @@
 
 Satisfies all of the preceding acceptance criteria plus the following code improvements:
 
-- Application's links all function correctly.🤷‍
+- Application's links all function correctly. ✔
 - Application's CSS selectors and properties are consolidated and organized to follow semantic structure.✔
 - Application's CSS file is properly commented. 🤷‍♀️
 
@@ -32,4 +32,4 @@ Satisfies all of the preceding acceptance criteria plus the following code impro
 - Repository follows best practices for file structure and naming conventions. 🤷‍♀️
 - Repository follows best practices for class/id naming conventions, indentation, quality comments, etc. 🤷‍♀️
 - Repository contains multiple descriptive commit messages. 🤷‍♀️
-- Repository contains quality README file with description, screenshot, and link to deployed application. 🤷‍♀️
+- Repository contains quality README file with description, screenshot, and link to deployed application. <https://lesley-byte.github.io/first-project/>  🤷‍♀️
