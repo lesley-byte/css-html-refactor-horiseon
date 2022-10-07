@@ -3,100 +3,107 @@
     padding: 0;
     margin: 0;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    
-}
-
-body {
+  
+  }
+  
+  body {
     background-color: #d9dcd6;
-    
-}
-/* Header at the top. */
-header {
+  
+  }
+  
+  /* Header at the top. */
+  header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
-    
-}
-
-h1 {
+  
+  }
+  
+  h1 {
     display: inline-block;
     font-size: 48px;
-}
-/* Used to change the color on part of the h1 header at the top. */
-.seo {
+  }
+  
+  /* Used to change the color on part of the h1 header at the top. */
+  .seo {
     color: #d9dcd6;
-}
-/* nav bar up at the top of the page */
-nav {
+  }
+  
+  /* nav bar up at the top of the page */
+  nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
     font-size: 20px;
-}
-
-main {
+  }
+  
+  main {
     color: #ffffff;
     width: 75%;
     display: inline-block;
     margin-left: 20px;
-}
-/* Elements within nav bar menu */
-li {
+  }
+  
+  /* Elements within nav bar menu */
+  li {
     list-style-type: none;
     display: inline-block;
     margin-left: 25px;
-    
-}
-/* links in the nav bar */
-a {
+  
+  }
+  
+  /* links in the nav bar */
+  a {
     color: #ffffff;
     text-decoration: none;
-}
-
-p {
+  }
+  
+  p {
     font-size: 16px;
-}
-/* Hero image styling for background image */
-.hero-img {
+  }
+  
+  /* Hero image styling for background image */
+  .hero-img {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
-    background-image:  url("../images/digital-marketing-meeting-small.webp");
+    background-image: url("../images/digital-marketing-meeting-small.webp");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
     position: relative;
-}
-
-.float-left {
+  }
+  
+  .float-left {
     float: left;
     margin-right: 25px;
-}
-
-.float-right {
+  }
+  
+  .float-right {
     float: right;
     margin-left: 25px;
-}
-section {
+  }
+  
+  section {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
     background-color: #0072bb;
-}
-
-section img {
+  }
+  
+  section img {
     max-height: 200px;
-}
-
-
-section h2 {
+  }
+  
+  
+  section h2 {
     margin-bottom: 20px;
     font-size: 36px;
-}
-
-/* Right hand side sidebar */
-aside {
+  }
+  
+  /* Right hand side sidebar */
+  aside {
     margin-right: 20px;
     padding: 20px;
     clear: both;
@@ -105,30 +112,33 @@ aside {
     height: 100%;
     background-color: #2589bd;
     color: #ffffff;
-}
-
-.side {
+  }
+  
+  .side {
     margin-bottom: 32px;
-}
-h3 {
+  }
+  
+  h3 {
     margin-bottom: 10px;
     text-align: center;
-}
-.side img {
+  }
+  
+  .side img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
-}
-
-
-footer {
+  }
+  
+  
+  footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
-    
-}
-
-footer h2 {
+  
+  }
+  
+  footer h2 {
     font-size: 20px;
-}
+  }
+  
