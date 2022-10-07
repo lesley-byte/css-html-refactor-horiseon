@@ -1,9 +1,9 @@
 # First Project
-First Bootcamp project
+## First Bootcamp project
 
-Created a new repository on my GitHub account and cloned it to my computer. ✔
+- Created a new repository on my GitHub account and cloned it to my computer. ✔
 
-Used the git add, git commit, and git push commands to save and push my code to my GitHub repository. ✔
+-Used the git add, git commit, and git push commands to save and push my code to my GitHub repository. ✔
 
 Navigated to my GitHub repository in the browser and then selected the Settings tab on the right side of the page. ✔
 
