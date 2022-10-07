@@ -1,5 +1,8 @@
 # First Project
-## First Bootcamp project
+## First Bootcamp project Description:
+
+This website is the first project I will submit based off of what I have learned so far in and out of class. 
+My goal is to meet all the following listed criteria: 
 
 - Created a new repository on my GitHub account and cloned it to my computer. ✔
 - Used the git add, git commit, and git push commands to save and push my code to my GitHub repository. ✔
@@ -38,3 +41,25 @@ Satisfies all of the preceding acceptance criteria plus the following code impro
 
 
 ![Screenshot of my deployed website](assets/images/screenshot.png)
+
+## Usage
+
+This project should showcase my ability to refactor code, use HTML and CSS.
+
+## Credits
+
+I would like to thank the Html living standard:  <https://html.spec.whatwg.org/multipage/>.
+I would like to thank the Google speed test website checker: <https://pagespeed.web.dev/?utm_source=psi&utm_medium=redirect>
+I would like to thank the Nu Html Checker: <https://validator.w3.org/nu/>
+
+## MIT License. Please refer to the License in the Repo
+
+## Badges
+
+![badmath](https://img.shields.io/badge/bootcamp-education-red)
+
+## Features
+
+- HTML
+- CSS
+- Effort
