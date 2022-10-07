@@ -37,4 +37,4 @@ Satisfies all of the preceding acceptance criteria plus the following code impro
 - Repository contains quality README file with description, screenshot, and link to deployed application. <https://lesley-byte.github.io/first-project/>  🤷‍♀️
 
 
-![Screenshot of my deployed website](assets/images/Web-capture.png)
+![Screenshot of my deployed website](assets/images/screenshot.png)
