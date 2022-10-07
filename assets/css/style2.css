@@ -1,4 +1,4 @@
-/* This is the universal selector. */
+/* This is the universal selector. sets universal font, margin,padding and box-sizing*/
 * {
     box-sizing: border-box;
     padding: 0;
@@ -6,13 +6,13 @@
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   
   }
-  /* This is the body element selector. */
+  /* This is the body element selector. Sets background color */
   body {
     background-color: #d9dcd6;
   
   }
   
-  /* Header at the top. */
+  /* Header at the top.  Sets padding, font and colors*/
   header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -20,7 +20,7 @@
     color: #ffffff;
   
   }
-  /* This is the h1 element selector. */
+  /* This is the h1 element selector. Sets specific size and display for this element */
   h1 {
     display: inline-block;
     font-size: 48px;
@@ -31,7 +31,7 @@
     color: #d9dcd6;
   }
   
-  /* nav menu bar up at the top of the page */
+  /* nav menu bar up at the top of the page. Sets the padding, margin, and location of the nav bar menu */
   nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -39,7 +39,7 @@
     font-size: 20px;
   }
   
-  /* Elements within nav bar menu */
+  /* Elements within nav bar menu  sets inline-block discplay, and location*/
   li {
     list-style-type: none;
     display: inline-block;
@@ -47,13 +47,13 @@
   
   }
   
-  /* links in the nav bar */
+  /* links in the nav bar. sets color of links, otherwise it reverts to blue or default color */
   a {
     color: #ffffff;
     text-decoration: none;
   }
   
-  /* Hero image styling for background image */
+  /* Hero image styling for background image.  */
   .hero-img {
     height: 800px;
     width: 100%;
@@ -64,7 +64,7 @@
     background-repeat: no-repeat;
     position: relative;
   }
-  /* Element selector */
+  /* Element selector for main.*/
   main {
     color: #ffffff;
     width: 75%;
@@ -75,7 +75,7 @@
   p {
     font-size: 16px;
   }
-  /* Class selectors  */
+  /* Class selectors. these help to arrange the pictures in the sections */
   .float-left {
     float: left;
     margin-right: 25px;
@@ -92,18 +92,18 @@
     height: 300px;
     background-color: #0072bb;
   }
-  /* Element selector */
+  /* Element selector for images in the sections*/
   section img {
     max-height: 200px;
   }
   
-  /* Element selector */
+  /* Element selector for heading in sections*/
   section h2 {
     margin-bottom: 20px;
     font-size: 36px;
   }
   
-  /* Right hand side sidebar */
+  /* Right hand side sidebar.  Sets margin,padding, float, dimensions, color and background-color*/
   aside {
     margin-right: 20px;
     padding: 20px;
@@ -130,7 +130,7 @@
     max-width: 150px;
   }
   
-  /* Element selector */
+  /* Element selector for footing, sets padding, font family, text align */
   footer {
     padding: 30px;
     clear: both;
@@ -138,7 +138,7 @@
     text-align: center;
   
   }
-  /* Element selector */
+  /* Element selector sets specific size for h2 in the footer*/
   footer h2 {
     font-size: 20px;
   }
