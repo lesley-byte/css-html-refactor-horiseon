@@ -92,11 +92,6 @@
     height: 300px;
     background-color: #0072bb;
   }
-  /* Element selector for images in the sections*/
-  section img {
-    max-height: 200px;
-  }
-  
   /* Element selector for heading in sections*/
   section h2 {
     margin-bottom: 20px;
@@ -127,7 +122,6 @@
   .side img {
     display: block;
     margin: 10px auto;
-    max-width: 150px;
   }
   
   /* Element selector for footing, sets padding, font family, text align */
