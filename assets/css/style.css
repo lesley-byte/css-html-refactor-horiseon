@@ -34,7 +34,7 @@ nav {
   padding-top: 15px;
   margin-right: 20px;
   float: right;
-  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
   font-size: 20px;
 }
 
@@ -44,9 +44,8 @@ ul {
 
 /* Element selector for elements within nav bar menu  sets inline-block discplay, and location*/
 li {
-  
   display: inline-block;
-  margin-left:30.5px;
+  margin-left: 30.5px;
 }
 
 /* Element selector for links in the nav bar. sets color of links, otherwise it reverts to blue or default color */
@@ -74,7 +73,8 @@ main {
   margin-left: 20px;
 }
 
-main, aside {
+main,
+aside {
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
 }
 /* Element selector */
