@@ -24,7 +24,7 @@ h1 {
 .seo {
     color: #d9dcd6;
 }
-/* Class selector for nav menu bar up at the top of the page. Sets the padding, margin, and location of the nav bar menu */
+/* Element selector for nav menu bar up at the top of the page. Sets the padding, margin, and location of the nav bar menu */
 nav {
     padding-top: 15px;
     margin-right: 20px;
