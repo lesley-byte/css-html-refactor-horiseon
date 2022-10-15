@@ -1,4 +1,4 @@
-/* This is the universal selector. sets universal font, margin,padding and box-sizing*/
+/* This is the universal selector. sets universal margin,padding and box-sizing*/
 * {
     box-sizing: border-box;
     padding: 0;
