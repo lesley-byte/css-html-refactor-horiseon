@@ -1,146 +1,133 @@
-/* This is the universal selector. sets universal font, margin,padding and box-sizing*/
 * {
-  box-sizing: border-box;
-  padding: 0;
-  margin: 0;
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
 }
-/* This is the body element selector. Sets background color */
+
 body {
-  background-color: #d9dcd6;
-  /* font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif; */
+    background-color: #d9dcd6;
 }
 
-/* element selector Header at the top.  Sets padding, font and colors*/
 header {
-  padding: 20px;
-  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
-    "Lucida Sans", Arial, sans-serif;
-  background-color: #2a607c;
-  color: #ffffff;
+    padding: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: #2a607c;
+    color: #ffffff;
 }
-/* This is the h1 element selector. Sets specific size and display for this element */
+
 h1 {
-  display: inline-block;
-  font-size: 48px;
+    display: inline-block;
+    font-size: 48px;
 }
 
-/* Class selector used to change the color on part of the h1 header at the top. */
 .seo {
-  color: #d9dcd6;
+    color: #d9dcd6;
 }
 
-/* Class selector for nav menu bar up at the top of the page. Sets the padding, margin, and location of the nav bar menu */
 nav {
-  padding-top: 15px;
-  margin-right: 20px;
-  float: right;
-  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
-  font-size: 20px;
+    padding-top: 15px;
+    margin-right: 20px;
+    float: right;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
 }
 
 ul {
-  list-style-type: none;
+    list-style-type: none;
 }
 
-/* Element selector for elements within nav bar menu  sets inline-block discplay, and location*/
 li {
-  display: inline-block;
-  margin-left: 30.5px;
+    display: inline-block;
+    margin-left: 25px;
 }
 
-/* Element selector for links in the nav bar. sets color of links, otherwise it reverts to blue or default color */
 a {
-  color: #ffffff;
-  text-decoration: none;
+    color: #ffffff;
+    text-decoration: none;
 }
 
-/* Class selector for Hero image styling for background image.  */
-.hero-img {
-  height: 800px;
-  width: 100%;
-  margin-bottom: 25px;
-  background-image: url("../images/digital-marketing-meeting-small.webp");
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-  position: relative;
-}
-/* Element selector for main.*/
-main {
-  color: #ffffff;
-  width: 75%;
-  display: inline-block;
-  margin-left: 20px;
-}
-
-main,
-aside {
-  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
-}
-/* Element selector */
 p {
-  font-size: 16px;
+    font-size: 16px;
 }
-/* Class selectors. these help to arrange the pictures in the sections */
+
+.hero {
+    height: 800px;
+    width: 100%;
+    margin-bottom: 25px;
+    background-image: url("../images/digital-marketing-meeting.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
 .float-left {
-  float: left;
-  margin-right: 25px;
+    float: left;
+    margin-right: 25px;
 }
 
 .float-right {
-  float: right;
-  margin-left: 25px;
-}
-/* Element selector */
-section {
-  margin-bottom: 20px;
-  padding: 50px;
-  height: 300px;
-  background-color: #0072bb;
-}
-/* Element selector for heading in sections*/
-section h2 {
-  margin-bottom: 20px;
-  font-size: 36px;
+    float: right;
+    margin-left: 25px;
 }
 
-/* Element selector for right hand side sidebar.  Sets margin,padding, float, dimensions, color and background-color*/
+main {
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
+}
+
+.content-card {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+.content-card img {
+    max-height: 200px;
+}
+
+.content-card h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
 aside {
-  margin-right: 20px;
-  padding: 20px;
-  clear: both;
-  float: right;
-  width: 20%;
-  height: 100%;
-  background-color: #2589bd;
-  color: #ffffff;
-}
-/* Class selector  */
-.side {
-  margin-bottom: 32px;
-}
-/* Element selector */
-h3 {
-  margin-bottom: 10px;
-  text-align: center;
-}
-/* Class selector  */
-.side img {
-  display: block;
-  margin: 10px auto;
+    margin-right: 20px;
+    padding: 20px;
+    clear: both;
+    float: right;
+    width: 20%;
+    height: 100%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #2589bd;
 }
 
-/* Element selector for footing, sets padding, font family, text align */
-footer {
-  padding: 30px;
-  clear: both;
-  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
-    "Lucida Sans", Arial, sans-serif;
-  text-align: center;
+.benefit {
+    margin-bottom: 32px;
+    color: #ffffff;
 }
-/* Element selector sets specific size for h2 in the footer*/
+
+
+.benefit h3 {
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.benefit img {
+    display: block;
+    margin: 10px auto;
+    max-width: 150px;
+}
+
+footer {
+    padding: 30px;
+    clear: both;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+
 footer h2 {
-  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
-    "Lucida Sans", Arial, sans-serif;
-  font-size: 20px;
+    font-size: 20px;
 }
