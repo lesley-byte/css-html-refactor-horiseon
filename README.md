@@ -1,6 +1,6 @@
 # CSS HTML Refactor Horiseon Page
 
-## First Bootcamp project Description:
+## Refactor project Description:
 
 This website is the first project I will submit based off of what I have learned so far in and out of class.
 My goal is to meet all the following listed criteria:
