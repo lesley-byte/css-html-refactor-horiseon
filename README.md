@@ -1,4 +1,4 @@
-# First Project
+# CSS HTML Refactor Horiseon Page
 
 ## First Bootcamp project Description:
 
