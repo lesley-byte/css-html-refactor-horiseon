@@ -9,7 +9,7 @@ My goal is to meet all the following listed criteria:
 - Used the git add, git commit, and git push commands to save and push my code to my GitHub repository. ✔
 - Navigated to my GitHub repository in the browser and then selected the Settings tab on the right side of the page. ✔
 - Selected the main branch as my source. ✔
-- Navigate to <https://lesley-byte.github.io/first-project/> and find that my new webpage has gone live!✔
+- Navigate to <https://lesley-byte.github.io/css-html-refactor-horiseon/> and find that my new webpage has gone live!✔
 
 ## This Challenge is graded based on the following criteria:
 
@@ -39,7 +39,7 @@ Satisfies all of the preceding acceptance criteria plus the following code impro
 - Repository follows best practices for file structure and naming conventions. ✔
 - Repository follows best practices for class/id naming conventions, indentation, quality comments, etc. ✔
 - Repository contains multiple descriptive commit messages. ✔
-- Repository contains quality README file with description, screenshot, and link to deployed application. <https://lesley-byte.github.io/first-project/> ✔
+- Repository contains quality README file with description, screenshot, and link to deployed application. <https://lesley-byte.github.io/css-html-refactor-horiseon/> ✔
 
 ![Screenshot of my deployed website](assets/images/screenshot.png)
 
